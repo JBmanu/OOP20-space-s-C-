@@ -11,3 +11,9 @@ D:\PROJECTS\C#\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\n
 D:\PROJECTS\C#\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.dll
 D:\PROJECTS\C#\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.pdb
 D:\PROJECTS\C#\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.genruntimeconfig.cache
+D:\PROJECTS\C#\OOP20-space-s-CSharp\Buizo\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\OOP20-space-s-CSharp\Buizo\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.AssemblyInfoInputs.cache
+D:\PROJECTS\C#\OOP20-space-s-CSharp\Buizo\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.AssemblyInfo.cs
+D:\PROJECTS\C#\OOP20-space-s-CSharp\Buizo\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\OOP20-space-s-CSharp\Buizo\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.dll
+D:\PROJECTS\C#\OOP20-space-s-CSharp\Buizo\OOP20-SpaceSurvival-CSharp\OOP20-SpaceSurvival-CSharp\obj\Debug\netcoreapp3.1\OOP20-SpaceSurvival-CSharp.pdb

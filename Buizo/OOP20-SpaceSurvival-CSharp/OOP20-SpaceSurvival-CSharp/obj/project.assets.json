@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECTS\\C#\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp.csproj",
+      "projectUniqueName": "D:\\PROJECTS\\C#\\OOP20-space-s-CSharp\\Buizo\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp.csproj",
       "projectName": "OOP20-SpaceSurvival-CSharp",
-      "projectPath": "D:\\PROJECTS\\C#\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp.csproj",
+      "projectPath": "D:\\PROJECTS\\C#\\OOP20-space-s-CSharp\\Buizo\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp.csproj",
       "packagesPath": "C:\\Users\\buizo\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECTS\\C#\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp\\obj\\",
+      "outputPath": "D:\\PROJECTS\\C#\\OOP20-space-s-CSharp\\Buizo\\OOP20-SpaceSurvival-CSharp\\OOP20-SpaceSurvival-CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\buizo\\AppData\\Roaming\\NuGet\\NuGet.Config",
