@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP20-SpaceSurvival-CSharp/1.0.0": {
+        "runtime": {
+          "OOP20-SpaceSurvival-CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP20-SpaceSurvival-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
