@@ -1,0 +1,9 @@
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/bin/Debug/Paganelli.exe
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/bin/Debug/Paganelli.pdb
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/bin/Debug/nunit.framework.dll
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/bin/Debug/nunit.framework.xml
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/obj/Debug/Paganelli.csprojAssemblyReference.cache
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/obj/Debug/Paganelli.csproj.CoreCompileInputs.cache
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/obj/Debug/Paganelli.csproj.CopyComplete
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/obj/Debug/Paganelli.exe
+/Users/albertopaga/Desktop/oopcsharp/Paganelli/Paganelli/obj/Debug/Paganelli.pdb
